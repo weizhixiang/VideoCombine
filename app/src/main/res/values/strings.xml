@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">腾讯视频缓存合并</string>
+    <string name="action_settings">关于</string>
+    <string name="goToQQMovie">查看合并文件</string>
+    <string name="nofinish"></string>
+    <string name="finished">已合并</string>
+    <string name="tishi">Hey,Man!合并后的mp4文件在Sd卡下QQMovie文件夹</string>
+    <array name="itemArray">
+        <item>查看</item>
+        <item>合并</item>
+        <item>删除</item>
+        <item>取消</item>
+    </array>
+</resources>
